@@ -1,3 +1,23 @@
+
+
+tested on
+Linux ubuntu 3.8.0-19-generic #29-Ubuntu SMP Wed Apr 17 18:19:42 UTC 2013 i686 i686 i686 GNU/Linux
+
+with PF_RING Version          : 5.6.3 ($Revision: 7388$)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # tcpdump
 
 [![Build
